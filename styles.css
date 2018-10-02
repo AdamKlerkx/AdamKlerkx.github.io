@@ -1,0 +1,18 @@
+body
+{
+    background-color: #d6d6d6;
+    font-family: Verdana;
+    color: #fff;
+}
+.tekst {
+  background-color: #595959;
+}
+.link {
+  background-color: #d6d6d6;
+}
+.link-active {
+  background-color: #595959;
+}
+.maintekst {
+  color: #000000;
+}
